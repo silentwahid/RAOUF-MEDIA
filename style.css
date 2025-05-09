@@ -9,3 +9,6 @@ body{
   main{
     overflow: hidden;
   }
+  section{
+    overflow: hidden;
+  }
